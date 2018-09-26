@@ -1,0 +1,23 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "Real time chat application using Express and Socket.io",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-verissimo/real-time-chat.git"
+  },
+  "author": "José Veríssimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jose-verissimo/real-time-chat/issues"
+  },
+  "homepage": "https://github.com/jose-verissimo/real-time-chat#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
